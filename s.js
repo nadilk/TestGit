@@ -1,1 +1,1 @@
-document.getElementById('app').outerHTML = "<p>cracked</p>";
+alert('ok');
